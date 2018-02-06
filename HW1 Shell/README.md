@@ -7,12 +7,10 @@ sudo apt-get install GNU
 ####On Mac
 run:
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 then run:
 brew install GNU
 ##Compilling and Runing
 To compile: gcc sh.c
-
 To run:  ./a.out
 ##Testing
 My test cases are in t.sh.
